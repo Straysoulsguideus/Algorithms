@@ -1,5 +1,5 @@
 # Insertion Sort
-# Michael Perlin
+
 
 # Start with some pre-determined array
 arr = [13, 17, 18, 19, 2, 3, 6, 23, 47, 51]
